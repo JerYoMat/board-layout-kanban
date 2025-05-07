@@ -1,0 +1,27 @@
+{
+  "name": "over-element",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.tsx",
+  "dependencies": {
+    "@atlaskit/pragmatic-drag-and-drop": "latest",
+    "tiny-invariant": "^1.2.0",
+    "@atlaskit/primitives": "14.7.0",
+    "@atlaskit/motion": "5.1.2",
+    "@atlaskit/pragmatic-drag-and-drop-auto-scroll": "2.1.0",
+    "@emotion/react": "11.7.1",
+    "styled-components": "3.2.6",
+    "@atlaskit/css-reset": "latest",
+    "@atlaskit/analytics-next": "latest",
+    "@atlaskit/app-provider": "latest",
+    "@alex9923/react-pdf-table": "0.4.7-beta",
+    "@iduty/ui": "1.0.7",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
